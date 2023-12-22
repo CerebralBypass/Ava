@@ -3,7 +3,7 @@
 ! Homepage: 
 ! Last modified: 2023-12-22T07:05:41.970Z
 ! Source name: Brawlstars
-! Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
+! Source: https://github.com/CerebralBypass/Ava/blob/main/brawlstars.txt
 
 ||game-assets-2.brawlstars.com^$important
 ||brawlstars.inbox.supercell.com^$important
