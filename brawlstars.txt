@@ -1,0 +1,14 @@
+! Title: Brawlstars
+! Description: List for blocking Brawlstars
+! Homepage: 
+! Last modified: 2023-12-22T07:05:41.970Z
+! Source name: Brawlstars
+! Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
+
+||game-assets-2.brawlstars.com^$important
+||brawlstars.inbox.supercell.com^$important
+||id.supercell.com^$important
+||cdn.id.supercell.com^$important
+||inventory.mtech.supercell.com^$important
+||game.brawlstarsgame.com^$important
+||game-assets.brawlstarsgame.com^$important
